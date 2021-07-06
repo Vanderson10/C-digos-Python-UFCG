@@ -1,0 +1,19 @@
+- input: |
+    João
+    30
+    21
+    45
+    15
+    -
+    Maria
+    10
+    50
+    20
+    -
+    José
+    12
+    10
+    -
+    fim
+  output: |
+    Funcionário do mês: João
